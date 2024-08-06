@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Sofia! 👋
 
-<!--
-**sofiagermer/sofiagermer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 Currently: Master in Intelligent Adaptive Systems at University of Hamburg, Germany
+- 🎓 Bachelor in Informatics and Computing Engineering at Faculty of Engineering, University of Porto, Portugal
+- 💻 Interested in Machine Learning & Artificial Intelligence 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sofia-germer-7bab67193/)
+
+## 👩‍💻 Projects
+Some Projects I did in my Bachelor:
+- **[Waste-App](https://github.com/sofiagermer/WASTE-APP/tree/main)**: Waste management app with sensor-equipped containers to monitor capacity, maps to locate containers, and a home trash pick-up service by citizens, optimized with efficient routing.
+- **[Online-Shop](https://github.com/sofiagermer/ONLINE-SHOP/tree/main)**: The BuyNow project enhances online shopping with priority-based delivery, customer support, and supplier management systems.
+- **[Traffic Signal Optimization](https://github.com/sofiagermer/FEUP-IART-Optimizaition)**: Solving the Google Hash code 2021 Traffic Signaling problem utilizing Optimization algorithms and heuristics.
+- **[Super Mario](https://github.com/sofiagermer/SUPER-MARIO)**: Developed Super Mario Game using Design Patterns
