@@ -2,9 +2,9 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 Currently: Master in Intelligent Adaptive Systems at University of Hamburg, Germany
-- 🎓 Bachelor in Informatics and Computing Engineering at Faculty of Engineering, University of Porto, Portugal
-- 💻 Interested in Machine Learning & Artificial Intelligence 
+- Currently: Master in Intelligent Adaptive Systems at University of Hamburg, Germany
+- Bachelor in Informatics and Computing Engineering at Faculty of Engineering, University of Porto, Portugal
+- Interested in Machine Learning & Artificial Intelligence 
 
 
 ## 🌐 Connect with Me
